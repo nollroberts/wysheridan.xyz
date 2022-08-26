@@ -2,15 +2,16 @@
 title: Home
 type: docs
 ---
-# This is an, EXPERIMENTAL, development website.
-
-## This Page and Site are Currently not Production Ready
-
-### Currently this Site in a collection of partially developed musings by a Single Citizen of Precinct 02-02.
-
-#### If other citizens of Sheridan County find these musings interesting and would like to help develop them. Please contact noll at nollroberts@gmail.com. 
-
 # wysheridan.xyz
+The Purpose of this site is two-fold.
+
+First is to promote and aide civil paritication by the greatest number of 
+county residences. 
+Chiefly this will be accomplished by helping precincts to determine and make public statements of their current policy priorities.
+
+Second is to provide tools for the citizenry to engage in its civic duties with its elected representatives.
+
+## Audience & Goal
 The intended audience is the Sheridan County Wyoming Citizenry.
 
 The goal is to assist citizens in meaningful public communication.
@@ -29,3 +30,4 @@ If needed the precincts can further be broken up into smaller subsets.
 - Initally this site will be one option for reporting to the citizenry of each precinct and the county as a whole.
 
 
+### If interested, please, contact noll at nollroberts@gmail.com. 
