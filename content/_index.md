@@ -3,24 +3,25 @@ title: Home
 type: docs
 ---
 # wysheridan.xyz
+
+## Introduction
 The Purpose of this site is two-fold.
 
-First is to promote and aide civil paritication by the greatest number of 
+- First is to promote and aide civil paritication by the greatest number of 
 county residences. 
-Chiefly this will be accomplished by helping precincts to determine and make public statements of their current policy priorities.
-
-Second is to provide tools for the citizenry to engage in its civic duties with its elected representatives.
+    - Chiefly this will be accomplished by helping precincts to determine and make public statements of their current policy priorities.
+- Second is to provide tools for the citizenry to engage in its civic duties with its elected representatives.
 
 ## Audience & Goal
-The intended audience is the Sheridan County Wyoming Citizenry.
+- The intended audience is the Sheridan County Wyoming Citizenry.
 
-The goal is to assist citizens in meaningful public communication.
+- The goal is to assist citizens in meaningful public communication.
 
 ## Precincts
 By breaking down the County population into Precincts, it should be
 easier to have meaningful discussion.
 
-If needed the precincts can further be broken up into smaller subsets.
+- If needed the precincts can further be broken up into smaller subsets.
 
 ## Develoment 
 - Citizens of any Sheridan County Precinct are invited to participate. 
@@ -30,4 +31,6 @@ If needed the precincts can further be broken up into smaller subsets.
 - Initally this site will be one option for reporting to the citizenry of each precinct and the county as a whole.
 
 
-### If interested, please, contact noll at nollroberts@gmail.com. 
+### Join the conversation 
+If interested, please, contact noll at 
+- nollroberts@gmail.com. 
